@@ -1,0 +1,3 @@
+h1. Image Denoising
+
+This library comprises of all the files I have used to run the numerical simulations for my Bachelor Thesis in Mathematics: *Total Variation image denoising from Poisson data: Split Bregman and Alternating Extragradient methods*.
