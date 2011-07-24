@@ -1,0 +1,10 @@
+%stopw_PID('airplane','airplane',0.05,'50',25);
+%stopw_PID('airplane','airplane',0.05,'5',25);
+%stopw_PID('airplane','airplane',0.05,'1',25);
+stopw_PID('airplane','airplane',0.05,'05',25);
+stopw_AEM('panoramica','Panoramica',0.27,25);
+stopw_PID('panoramica','Panoramica',0.27,'50',25);
+stopw_PID('panoramica','Panoramica',0.27,'5',25);
+stopw_PID('panoramica','Panoramica',0.27,'1',25);
+stopw_PID('panoramica','Panoramica',0.27,'05',25);
+exit;
